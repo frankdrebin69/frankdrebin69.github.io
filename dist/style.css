@@ -16,7 +16,7 @@ header{
 		top: 220px;
 		left: 280px;
 		font-family: 'Abril Fatface';
-		color: #250;
+		color:lightseagreen;
 		font-weight: bold;
 		line-height: 3em;
 }
@@ -33,7 +33,7 @@ main{
 		justify-content: center;
 		width: 100%;
 		font-family: 'Josefin Sans';
-		color: #250;
+		color: lightseagreen;
 		line-height: 1.5em;
 		font-size: 1.2em;
 		margin-top: 40px;
